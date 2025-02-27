@@ -150,5 +150,3 @@ Built using a modern **React + TypeScript frontend**, an **Express.js + PostgreS
 
 Future enhancements, such as **enhanced NLP capabilities, AI-driven response generation, and advanced analytics**, will further improve the chatbot's accuracy and user experience.    
 
-🚀 **Happy Coding & Chatbot Building!** 🤖💡  
-
